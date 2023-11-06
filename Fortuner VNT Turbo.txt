@@ -1,0 +1,2 @@
+mesin : 2kd
+type : VNT Turbo
