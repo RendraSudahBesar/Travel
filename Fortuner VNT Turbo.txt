@@ -1,2 +1,4 @@
 mesin : 2kd
 type : VNT Turbo
+4 pintu
+SUV
